@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace MinApi.Dtos
+namespace MinAPI.Dtos
 {
     public class CommandUpdateDto
     {

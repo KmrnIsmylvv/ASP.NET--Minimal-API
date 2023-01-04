@@ -1,4 +1,4 @@
-namespace MinApi.Dtos
+namespace MinAPI.Dtos
 {
     public class CommandReadDto
     {
